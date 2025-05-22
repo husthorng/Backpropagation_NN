@@ -1,5 +1,5 @@
 //https://blynk.cloud/dashboard/61121/global/devices/3361292/organization/61121/devices/2048871/dashboard
-//horng.tw  mr255
+//horng.tw  mc327
 // neural network 4X1y
 //「backpropagation_4X1y.ipynb」的副本
 
